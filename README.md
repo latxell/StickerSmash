@@ -1,5 +1,5 @@
 # StickerSmash
-A React Native Project
+A React Native Project using Expo
 
 ## Installation
 
